@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git is good.
 Git push test.
-Git push test two
+Git push test two.
